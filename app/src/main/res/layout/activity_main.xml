@@ -13,7 +13,8 @@
         android:layout_height="wrap_content"
         app:srcCompat="@drawable/powered_by_google_light"
         tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="487dp" />
+        tools:layout_editor_absoluteY="487dp"
+        tools:ignore="MissingConstraints" />
 
     <LinearLayout
         android:layout_width="match_parent"
